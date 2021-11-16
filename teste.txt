@@ -6,6 +6,9 @@
 
 4ª modificação
 
+<<<<<<< HEAD
 5ª modificação
+=======
+>>>>>>> fork
 
 6ª modificação
